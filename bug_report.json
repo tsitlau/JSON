@@ -15,7 +15,7 @@
   	"Precondition":"Widget on Home screen 4x5",
 	"STR":[ 
 		"1. Open app",
-		"2. Tap the "Add Widget" button",
+		"2. Tap the 'Add Widget' button",
 		"3. Tap on the widget, start resizing"
 		]
 	"AR":"When resizing the widget W:242 H:546 the white dash lines above and below are not displayed"
