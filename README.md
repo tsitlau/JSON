@@ -92,7 +92,7 @@ Enter
 Ctrl + D
 
  12. Отправить сразу 2 файла на внешний репозиторий.
-git add preferences.json, skills.json
+git add preferences.json skills.json
 git commit -m "add 2 files"
 git push
 
