@@ -13,7 +13,7 @@
 			"Samsung Galaxy A7, Android 10"
  			]
   	"Precondition":"Widget on Home screen 4x5",
-	"STR":[ 
+	"STR":[
 		"1. Open app",
 		"2. Tap the 'Add Widget' button",
 		"3. Tap on the widget, start resizing"
