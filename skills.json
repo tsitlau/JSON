@@ -1,4 +1,6 @@
-"skills":[
+{
+"skills":
+	[
 	"software testing theory",
 	"client-server architecture",
 	"HTTP Server Request Methods",
